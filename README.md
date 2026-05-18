@@ -146,18 +146,6 @@ checkpoints/
 ---
 
 
-# Experimental Settings
-
-* Backbone: ResNet18
-* GCN Hidden Dim: 64
-* Transformer Heads: 8
-* Transformer Layers: 2
-* Frames per Video: 32
-* Optimizer: AdamW
-* Scheduler: CosineAnnealingLR
-
----
-
 # Acknowledgement
 
 * NTU RGB+D Dataset
